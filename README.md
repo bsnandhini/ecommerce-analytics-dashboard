@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Analytics Dashboard
 
 This project analyzes E-commerce sales data using Python, SQLite, and Streamlit.
@@ -32,3 +33,7 @@ Streamlit
 pip install -r requirements.txt
 
 streamlit run dashboard/app.py
+=======
+# ecommerce-analytics-dashboard
+E-commerce Sales Analytics Dashboard using Python, SQLite, Stream lit
+>>>>>>> bbf2b4ce058e005954037bf8cf8ff0576434b19c
